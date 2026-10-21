@@ -1,0 +1,8 @@
+{
+  "invoice_number": "INV-LITE-1001",
+  "seller": {"name": "Northwind Supplies", "email": "billing@example.com"},
+  "buyer": {"name": "Contoso Lab", "email": "accounts@example.com"},
+  "lines": [
+    {"description": "Patch cable", "quantity": 3, "unit_price": "10.00"}
+  ]
+}

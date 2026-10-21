@@ -1,0 +1,9 @@
+{
+  "invoice_number": "INV-2026-0142",
+  "seller": {"name": "Northwind Supplies", "email": "billing@example.com"},
+  "buyer": {"name": "Contoso Lab", "email": "accounts@example.com"},
+  "lines": [
+    {"description": "Cable spool", "quantity": 2, "unit_price": "45.00"},
+    {"description": "Label roll", "quantity": 5, "unit_price": "12.50"}
+  ]
+}
